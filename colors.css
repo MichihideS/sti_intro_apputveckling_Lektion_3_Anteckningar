@@ -1,0 +1,18 @@
+/* CSS */
+/* MAC --> OPTION + SHIFT + 8 = {} */
+
+/* . = klass */
+/* # = ID */
+
+.tomat {
+    color: red;
+}
+
+#apple {
+    color: green;
+}
+
+
+p {
+    color: chartreuse;
+}
